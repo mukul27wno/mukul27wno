@@ -1,4 +1,19 @@
-<h1 align="center">Hey their 👋, I'm Mukul</h1>
+<h1 align="center">Hey there!😃 this is Mukul</h1>
+<h3 align="center">Do what you love to do.your time starts now..</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/mukul27wno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mukul27wno" height="30" width="40" /></a>
+<a href="https://twitter.com/mukul27wno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mukul27wno" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mukul27wno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukul27wno" height="30" width="40" /></a>
+<a href="https://instagram.com/mukul27wno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mukul27wno" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul27wno&show_icons=true&locale=en" alt="mukul27wno" /></p>
+
+
+
+<!-- <h1 align="center">Hey their 👋, I'm Mukul</h1>
 <h3 align="center">Fall in love with Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukul27wno&label=Profile%20views&color=0e75b6&style=flat" alt="mukul27wno" /> </p>
@@ -28,9 +43,10 @@
 - ⚡ Fun fact **k11**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mukul27wno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mukul27wno" height="30" width="40" /></a>
@@ -65,4 +81,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukul27wno&show_icons=true&locale=en" alt="mukul27wno" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul27wno&" alt="mukul27wno" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukul27wno&" alt="mukul27wno" /></p> --> -->
+
+<!-- source link - https://rahuldkjain.github.io/gh-profile-readme-generator/  -->
